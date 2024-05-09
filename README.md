@@ -1,4 +1,4 @@
-![logo](https://github.com/pranavgauttam08/pranavgauttam08/blob/main/Banner.gif)length=200
+![logo](https://github.com/pranavgauttam08/pranavgauttam08/blob/main/Banner.gif)
 <h1 align="center">Hi 👋, I'm Pranav Gauttam</h1>
 <h3 align="center">A passionate Web and blockchain developer from India</h3>
 <img align="right"alt="coding"width="400"src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY29naHZ5bXk4ZnN3aWx4bWRmcHZyd2E0ZXZndnJ5YWw0aWhlNzZmNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i1JHRZSXO9LZZDHqii/giphy.gif">
