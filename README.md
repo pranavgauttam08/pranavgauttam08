@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ML and Data models**
 
-- 💬 Ask me about **React, Node.js ,MongoDB ,Express.js , Next.js , Blockchain , Ethereium ,AWS ,Python ,Numpy ,Pandas**
+- 💬 Ask me about **React, Node.js ,MongoDB ,Express.js , Next.js , Blockchain , Ethereium ,AWS ,Python ,Numpy ,Pandas ,CSS ,Tailwind CSS ,HTML**
 
 - 📫 How to reach me **pranavgauttam04@gmail.com**
 
