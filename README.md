@@ -1,4 +1,4 @@
-
+![logo](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnR4YjZsc2l6cDAxZzJscXd3enRiNG45dDJmbmdrYmpja254cXdoNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/br99SojJZ5rlfSYset/giphy.gif)
 <h1 align="center">Hi 👋, I'm Pranav Gauttam</h1>
 <h3 align="center">A passionate Web and blockchain developer from India</h3>
 <img align="right"alt="coding"width="400"src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW5sNHYzZzlkZmIybXQwZmVsbjZjdTlqeDkxcGJuZHpxenNid2w2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
