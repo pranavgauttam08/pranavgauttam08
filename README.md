@@ -1,4 +1,5 @@
 ![logo](https://as2.ftcdn.net/v2/jpg/06/04/08/91/1000_F_604089168_VAoSVQ3VJkiT3nKrHhX6PZ35YYGPYs2m.jpg)
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Pranav Gauttam</h1>
 <h3 align="center">A passionate Web and blockchain developer from India</h3>
 <img align="right"alt="coding"width="400"src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW5sNHYzZzlkZmIybXQwZmVsbjZjdTlqeDkxcGJuZHpxenNid2w2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
